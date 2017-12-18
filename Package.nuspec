@@ -2,7 +2,7 @@
 <package>
   <metadata>
     <id>LagoVista.MQTT.Core</id>
-    <version>1.2.211-alpha1836</version>
+    <version>1.2.215-alpha1334</version>
     <authors>Software Logistics, LLC</authors>
     <owners>Software Logistics, LLC</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
@@ -16,6 +16,7 @@
   <files>
     <file src="src\LagoVista.MQTT.Core\bin\release\netstandard1.3\LagoVista.MQTT.Core.dll" target="lib\netstandard1.3" />
     <file src="src\LagoVista.MQTT.Core\bin\release\netstandard1.3\LagoVista.MQTT.Core.dll" target="lib\MonoAndroid10" />
+    <file src="src\LagoVista.MQTT.Core\bin\release\netstandard1.3\LagoVista.MQTT.Core.dll" target="lib\Xamarin.iOS10" />
     <file src="src\LagoVista.MQTT.Core\bin\release\netstandard1.3\LagoVista.MQTT.Core.dll" target="ref\uap10.0" />
     <file src="src\LagoVista.MQTT.Core\bin\release\netstandard1.3\LagoVista.MQTT.Core.dll" target="runtimes\win10-arm\lib\uap10.0" />
     <file src="src\LagoVista.MQTT.Core\bin\release\netstandard1.3\LagoVista.MQTT.Core.dll" target="runtimes\win10-x64\lib\uap10.0" />

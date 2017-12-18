@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Threading.Tasks;
 using LagoVista.MQTT.Core;
-using System.Security.Cryptography.X509Certificates;
 using System.Net;
 using System.Net.Sockets;
 
