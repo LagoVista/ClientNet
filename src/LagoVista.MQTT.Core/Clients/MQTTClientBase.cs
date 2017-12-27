@@ -80,7 +80,7 @@ namespace LagoVista.MQTT.Core.Clients
                 if (ConnectionStateChanged != null && result == ConnAck.Accepted)
                     ConnectionStateChanged(this, true);
 
-                return new MQTTConnectResult(ConnAck.Accepted);
+                return new MQTTConnectResult(result);
             }
             catch (MqttCommunicationException ex)
             {
